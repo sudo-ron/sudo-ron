@@ -1,4 +1,7 @@
-### 🧪 co-founder of Inference Labs, based in Hamilton, Canada
+### 🧪 Co-Founder of Inference Labs, based in Hamilton, Canada
+
+💬 Ask me about self soverign Artificial Intelligence
+🌱 Looking to collaborate on Zero-Knowledge, Web3, and AI
 
 <!--
 **sudo-ron/sudo-ron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
