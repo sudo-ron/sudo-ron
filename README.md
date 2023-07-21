@@ -1,6 +1,4 @@
-### Hi there 👋
-
-🧪 co-founder of Inference Labs, based in Hamilton, Canada
+### 🧪 co-founder of Inference Labs, based in Hamilton, Canada
 
 <!--
 **sudo-ron/sudo-ron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
