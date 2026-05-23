@@ -8,4 +8,4 @@
 
 💬 Ask me about self soverign Artificial Intelligence
 
-🌱 Looking to collaborate on Zero-Knowledge, Web3, and AI
+🌱 Looking to collaborate on AI, Cryptography, and Web3
