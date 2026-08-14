@@ -8,4 +8,4 @@
 
 💬 Ask me about self soverign Artificial Intelligence
 
-🌱 Looking to collaborate on Commercial Traction, AI, and Cryptography
+🌱 Looking to collaborate on AI, and Cryptography
